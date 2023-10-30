@@ -4,7 +4,7 @@
   "description": "common prettier config for all projects",
   "main": "./prettier-config.json",
   "scripts": {
-    "publish-manual": "npm publish --access public"
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "https",
